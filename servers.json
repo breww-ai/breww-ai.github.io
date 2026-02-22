@@ -58,4 +58,9 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
-}
+},
+{
+  "name": "breww-ai"
+  "address": "https://github.com/breww-ai/Brews-Domain"
+
+
